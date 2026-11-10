@@ -4,9 +4,9 @@
 
 # Karavex
 
-### Bookings, payments and galleries — one place for your studio.
+### Bookings, contracts and payments — one place to run your studio.
 
-Software for photographers who would rather be shooting than chasing emails.
+Software for appointment- and project-based businesses that would rather serve clients than chase them.
 
 [**karavex.com**](https://karavex.com) &nbsp;·&nbsp; [support@karavex.com](mailto:support@karavex.com)
 
@@ -14,27 +14,37 @@ Software for photographers who would rather be shooting than chasing emails.
 
 <br>
 
-## The shape of a session
+## One client record, start to finish
 
-A photography job is a chain. Karavex keeps every link on the same client record, so nothing gets lost between steps.
+Every step of a job lives on the same client record, so nothing gets lost between tools.
 
 ```
-  Inquiry  →  Booking  →  Deposit  →  Shoot  →  Gallery  →  Invoice
-     └───────────────── one client record ──────────────────┘
+  Inquiry  →  Booking  →  Contract  →  Payment  →  Service  →  Follow-up
+     └──────────────────── one client record ────────────────────┘
 ```
 
-## What it takes off your plate
+## What's inside
 
 | | |
 |---|---|
-| 📅 **Booking pages** | Set your rules once. Clients see a clear next step instead of a long email thread. |
-| 💳 **Deposits & invoices** | Payments tied to the booking they belong to — never in a separate app. |
-| 🖼 **Private galleries** | Delivery stays connected to the booking, from proofing to the final files. |
-| 👥 **Client records** | Details, history and conversations in one place, session after session. |
+| 📅 **Online booking** | Your rules, your availability. Clients see a clear next step instead of a long email thread. |
+| 🧩 **Resources & rentals** | Rooms, equipment and staff booked together, so double-bookings never happen. |
+| 📝 **Contracts & invoices** | Agreements, deposits and invoices attached to the booking they belong to. |
+| 💳 **Payments & POS** | Take payment online or in person without a separate app. |
+| 👥 **Client CRM & portal** | History, forms and conversations in one place — and a portal for your clients. |
+| 🗓 **Staff & calendar** | Team schedules and a studio calendar across one or many locations. |
+| 🖼 **Galleries** | Optional: deliver and proof photos from the same booking, if that's your work. |
+| ⚙️ **Automation & API** | Reminders and workflows that run themselves, plus integrations when you need them. |
 
 ## Who it's for
 
-Photographers — solo or with a small team — who want a calm, connected workflow rather than five tools held together with a spreadsheet.
+Karavex fits businesses that run on bookings and repeat clients:
+
+- **Creative** — photographers, creative studios, production houses, rental studios, tattoo studios
+- **Beauty & wellness** — salons, barbers, beauty studios, spas, massage therapists, yoga & pilates studios
+- **Care & services** — pet groomers, solo service providers, small teams
+
+Use only the parts you need. A salon may never open the galleries; a photographer may never touch the POS.
 
 <br>
 
